@@ -1,0 +1,20 @@
+[
+    {
+        "id": 1,
+        "event_id": 1,
+        "event_title": "CodeSprint 2026",
+        "name": "akansha sharma",
+        "email": "aditysharma0017@gmail.com",
+        "student_id": "2345678",
+        "registered_at": "2026-11-01 17:26:24"
+    },
+    {
+        "id": 2,
+        "event_id": 3,
+        "event_title": "Campus Startup Meetup",
+        "name": "aquib",
+        "email": "aditysharma0017@gmail.com",
+        "student_id": "",
+        "registered_at": "2026-11-02 05:06:20"
+    }
+]

@@ -1,0 +1,58 @@
+[
+    {
+        "id": 1,
+        "title": "CodeSprint 2026",
+        "category": "Hackathon",
+        "date": "2026-11-20",
+        "venue": "Computer Science Block",
+        "description": "A 24-hour college hackathon. Build a useful solution with a team and present your idea."
+    },
+    {
+        "id": 2,
+        "title": "Build with Python Workshop",
+        "category": "Workshop",
+        "date": "2026-11-24",
+        "venue": "Lab 2",
+        "description": "A beginner-friendly practical workshop covering Python basics and a small project."
+    },
+    {
+        "id": 3,
+        "title": "Campus Startup Meetup",
+        "category": "Entrepreneurship",
+        "date": "2026-12-02",
+        "venue": "Seminar Hall",
+        "description": "Meet student founders, share startup ideas and learn how to turn an idea into a plan."
+    },
+    {
+        "id": 4,
+        "title": "Inter-Department Cricket Cup",
+        "category": "Sports",
+        "date": "2026-12-06",
+        "venue": "College Ground",
+        "description": "A friendly inter-department cricket tournament. Register your team and support your department."
+    },
+    {
+        "id": 5,
+        "title": "Annual Cultural Fest",
+        "category": "Cultural",
+        "date": "2026-12-12",
+        "venue": "Main Auditorium",
+        "description": "An evening of music, dance, drama and creative performances from students."
+    },
+    {
+        "id": 6,
+        "title": "Career and Innovation Seminar",
+        "category": "Seminar",
+        "date": "2026-12-15",
+        "venue": "Conference Room",
+        "description": "A seminar about career opportunities, innovation and skills needed in the technology industry."
+    },
+    {
+        "id": 7,
+        "title": "PromptWars",
+        "category": "Hackathon",
+        "date": "2026-12-09",
+        "venue": "Seminar Hall",
+        "description": "Get ready to show case your best prompts"
+    }
+]

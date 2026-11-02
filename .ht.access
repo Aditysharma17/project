@@ -1,0 +1,4 @@
+
+<FilesMatch "^(config\.php|.*\.json)$">
+    Require all denied
+</FilesMatch>
